@@ -1,12 +1,17 @@
 // type the following if you have the react snippets: rfce
 
-import React from "react";
+import React, { useState } from "react";
 
 function NavBar() {
   return (
-    <div>
-      <h1>hello NAVI</h1>
-    </div>
+    <>
+   <nav className="navbar">
+       <div className="navbar-container">
+
+           
+       </div>
+   </nav>
+    </>
   );
 }
 
