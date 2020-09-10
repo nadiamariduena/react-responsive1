@@ -1,11 +1,5 @@
 ## ( in progress )
 
-<p>WRITE your REGEX here: </p>
-
-[<img src="./src/img/regular-expressions.jpg">](https://regex101.com/)
-
-<br>
-
 <p>I didnt bother to continue the tutorial due to the lack of explanation from the teacher but i got what i was looking for : </p>
 
 [<img src="./src/img/uglywebsite.gif">](https://nadiamariduena.github.io/react-responsive1/)
