@@ -1,12 +1,21 @@
 import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
-    <React.Fragment>
-    
-      <h1>hello</h1>
-    </React.Fragment>
+    <Router>
+      <NavBar />
+      <Switch />
+      <Route path="/" exact />
+    </Router>
   );
 }
 
 export default App;
+
+/*
+
+    <Route path="/" exact />  is the HOME PAGE
+ */
